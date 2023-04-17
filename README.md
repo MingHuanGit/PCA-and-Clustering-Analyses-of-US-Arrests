@@ -15,7 +15,7 @@ This project requires python and the following libraries installed:
 To use this project first clone the repo on your device using the command:
 ```
 git init
-git clone https://github.com/MingHuanGit/finalCapstone.git
+git clone https://github.com/MingHuanGit/PCA-and-Clustering-Analyses-of-US-Arrests.git
 ```
 
 ## Usage
