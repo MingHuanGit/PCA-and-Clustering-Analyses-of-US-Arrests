@@ -1,11 +1,11 @@
 # PCA and Clustering Analyses of US Arrests
 
 ## Dataset
-This dataset contains arrests per 100,000 residents for assault, murder, and rape in each US state in 1973. It also gives the percent of the population living in urban areas.
-In this project, I will explore the data, use PCA to reduce the amount dimensions, and perform unsupervised learning techniques on the data.
+This dataset contains arrests per 100,000 residents for assault, murder, and rape in each US state in 1973. It also gives the percentage of the population living in urban areas.
+In this project, I will explore the data, use PCA to reduce the number of dimensions and perform unsupervised learning techniques on the data.
 
 ## Installation
-This project requires python and the following libraries installed:
+This project requires Python and the following libraries installed:
 - NumPy
 - Pandas
 - Matplotlib
